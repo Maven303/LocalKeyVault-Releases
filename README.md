@@ -27,7 +27,7 @@ It works completely offline: no account, no cloud service, no telemetry and no u
 - [Verifying downloads](#verifying-downloads)
 - [Uninstalling](#uninstalling)
 - [Help and support](#help-and-support)
-- [Terms of use](#terms-of-use)
+- [Terms of use and privacy](#terms-of-use)
 - [Hrvatski](#hrvatski)
 
 ---
@@ -300,6 +300,8 @@ sha256sum -c SHA256SUMS.txt --ignore-missing
 ## Terms of use
 
 LocalKeyVault is **free to download and use**. It is provided **"as is", without warranty of any kind**. Nothing replaces your own security habits: keep your recovery file and passphrase safe and separate. See [LICENSE.txt](LICENSE.txt) for the full terms and [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for the open-source components the apps include.
+
+**Privacy:** LocalKeyVault collects, transmits and shares no data at all; see the [privacy policy](PRIVACY.md).
 
 © 2026 Tomislav Savić. All rights reserved.
 
